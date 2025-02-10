@@ -9,8 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/isaac-menchaca-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-menchaca-software-engineer" height="30" width="40" /></a>
 <a href="https://kaggle.com/isaacmenchacap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isaacmenchacap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/trane9387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trane9387" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isaacmenchaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isaacmenchaca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
