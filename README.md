@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Menchaca</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on [Hospital waiting time prediction](https://github.com/isaacmenchaca97/hospital_wait_time_prediction)
 
